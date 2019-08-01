@@ -27,3 +27,4 @@ public class NiobioCash extends Coin {
     public NiobioCash() {
         super("Niobio Cash", "NBR", new CryptoNoteAddressValidator(18, 42));
     }
+}
